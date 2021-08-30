@@ -1,0 +1,78 @@
+.pg2{
+    text-align: center;
+    top:100px;
+}
+.trip{
+    position: relative;
+    text-align: center;
+    border: red solid 1px;
+    border-radius: 8px;
+    width: 400px;
+    height:350px;
+    box-shadow: 5px 5px 5px gray;
+}
+@media screen and (min-width:360px) and (max-width:800px){
+    .trip{
+        width:260px;
+        height: 380px;
+    }
+}
+.hr-line1{
+    width: 80%;
+    margin-left:20%;
+    position: relative;
+    border-bottom: 1px solid #000;
+}
+.options{
+    color: red;
+    font-size: 25px;
+}
+
+.add{
+    position: absolute;
+    text-align: center;
+    font-size: 30px;
+    top:280px;
+    left:320px;
+}
+@media screen and (min-width:360px) and (max-width:800px){
+    .add{
+        position: absolute;
+        left:200px;
+        top:320px;
+    }
+}
+.del{
+    text-decoration: line-through 3px;
+    color: red;
+    font-size: 20px;
+    stroke-width: 50pt;
+}
+.container{
+    position: relative;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    top:30px;
+    filter:blur(5px);
+}
+.new-item{
+    position: absolute;
+    bottom:250px;
+    left:530px;
+    color: red;
+    border: red solid 2px;
+    border-radius: 2px;
+    width:300px;
+    height: 180px;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+@media screen and (min-width:360px) and (max-width:800px){
+    .new-item{
+        left:8%;
+        margin-bottom:120px;
+    }
+}
