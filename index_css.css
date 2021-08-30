@@ -1,4 +1,4 @@
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     body{
         width: 100%;
     }
@@ -62,14 +62,14 @@
     font-size: 20px;
     stroke-width: 50pt;
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .parent{
         display:flex;
         flex-direction: column;
         justify-content: left;
     }
 } 
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .box{
         border: red solid 1px;
         border-radius: 8px;
@@ -80,37 +80,37 @@
         margin-bottom: 25px;
     }
 }  
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .box1{
         margin-left: 0px;
     }
 } 
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .del{
         display:none;
     }
 } 
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .task{
         display:none;
     }
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .hr-rm{
         display:none;
     }
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .rm{
         display:none;
     }
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .add_list{
         display:none;
     }
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .options{
         color: black;
         font-size: 16px;
@@ -141,7 +141,7 @@
 
     border-bottom: 1px solid #000;
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .hr-line{
         display: none;
     }
@@ -156,7 +156,7 @@
     box-shadow: 5px 5px 5px gray;
 
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .trip{
         width:260px;
         height: 380px;
@@ -176,7 +176,7 @@
     top:280px;
     left:320px;
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .add{
         position: absolute;
         left:200px;
@@ -184,12 +184,12 @@
     }
 }
 
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .back{
         display: none;
     }
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .back_sign{
         position: absolute;
         top:65px;

@@ -11,7 +11,7 @@
     height:350px;
     box-shadow: 5px 5px 5px gray;
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .trip{
         width:260px;
         height: 380px;
@@ -35,7 +35,7 @@
     top:280px;
     left:320px;
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .add{
         position: absolute;
         left:200px;
@@ -70,9 +70,15 @@
     font-size: 20px;
     box-shadow: 5px 5px 5px gray;
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .new-item{
         left:8%;
-        margin-bottom:120px;
+        margin-top:50px;
+    }
+}
+@media screen and (min-width:641px) and (max-width:640px){
+    .new-item{
+        left:8%;
+        
     }
 }

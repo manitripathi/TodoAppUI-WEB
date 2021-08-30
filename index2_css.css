@@ -42,13 +42,16 @@
     font-size: 20px;
     box-shadow: 5px 5px 5px gray;
 }
-@media screen and (min-width:360px) and (max-width:800px){
+@media screen and (min-width:360px) and (max-width:640px){
     .new-item{
         left:8%;
-        margin-bottom:120px;
+        margin-top:50px;
     }
 }
-@media screen and (min-width:360px) and (max-width:800px){
+
+
+
+@media screen and (min-width:360px) and (max-width:640px){
     .line{
         left:8%;
     }
